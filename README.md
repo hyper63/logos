@@ -9,3 +9,11 @@ A repository full of hyper graphics, each graphic should be in svg and png mode.
 * connect
 
 ![](hyper-connect.png)
+
+---
+
+Convert svg to png 
+
+```
+npx svgexport [svg file]
+```
